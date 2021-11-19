@@ -1,0 +1,9 @@
+{
+  "name": "svelte-custom-event-types-testing",
+  "version": "0.0.0",
+  "author": "GHOST",
+  "license": "MIT",
+  "type": "module",
+  "main": "./src/index.js",
+  "types": "./src/index.d.ts"
+}
